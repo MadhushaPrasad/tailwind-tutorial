@@ -4,12 +4,17 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build-css": "tailwindcss build src/styles.css -o public/styles.css"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MadhushaPrasad/tailwind-tutorial.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "tailwindcss": "^2.2.4"
-  }
+  "bugs": {
+    "url": "https://github.com/MadhushaPrasad/tailwind-tutorial/issues"
+  },
+  "homepage": "https://github.com/MadhushaPrasad/tailwind-tutorial#readme"
 }
